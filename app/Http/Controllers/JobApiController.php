@@ -65,13 +65,3 @@ class JobApiController extends Controller
     }
 }
 
-// {
-//     "admin_id": "1",
-//     "location": "Kuantan",
-//     "position": "Software Tester",
-//     "mode": "Part time",
-//     "salary": "3000",
-//     "description": "Test developed software",
-//     "responsibility": "Assist senior tester in testing software",
-//     "benefit": "30 days annual leave provided"
-// }

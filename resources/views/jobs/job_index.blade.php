@@ -41,7 +41,7 @@
                 </table>
             </div>
         @else
-            <p>No Job Posted Yet</p>
+            <div class="alert alert-info">No Job Posted Yet</div>
         @endif
     </div>
 @endsection
